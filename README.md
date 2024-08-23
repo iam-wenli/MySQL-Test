@@ -15,3 +15,4 @@
 <img src="images/Inner Join.png" alt="Inner Join" width="500"/>
 <img src="images/Left Join.png" alt="Left Join" width="500"/>
 <img src="images/Right Join.png" alt="Right Join" width="500"/>
+<img src="images/Export a table to csv file.png" alt="Right Join" width="500"/>
