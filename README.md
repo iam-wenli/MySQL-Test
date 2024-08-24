@@ -12,7 +12,8 @@
 <img src="images/Select Max and Average age.png" alt="Select Max and Average age" width="500"/>
 <img src="images/Timestamp and Date.png" alt="Timestamp and Date" width="600"/>
 <img src="images/Create new Table and show Columns.png" alt="Create new Table and show Columns" width="600"/>
+<img src="images/Second table.png" alt="Second table" width="600"/>
 <img src="images/Inner Join.png" alt="Inner Join" width="500"/>
 <img src="images/Left Join.png" alt="Left Join" width="500"/>
 <img src="images/Right Join.png" alt="Right Join" width="500"/>
-<img src="images/Export a table to csv file.png" alt="Right Join" width="500"/>
+<img src="images/Export a table to csv file.png" alt="Export a table to csv file" width="500"/>
